@@ -1,8 +1,5 @@
 "use client"
 import FloatingShape from "./components/floatingShape"
-import Cursor from "./components/Cursor"
-import TextPath from "./components/MovingText"
-import MoveText from "./components/MovingText"
 
 
 export default function Page() {

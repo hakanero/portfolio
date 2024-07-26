@@ -5,7 +5,6 @@ import { GeistMono } from 'geist/font/mono'
 import { Navbar } from './components/nav.jsx'
 import { baseUrl } from './sitemap'
 import ScrollContainer from "./scrollcontainer"
-import Cursor from './components/Cursor'
 
 
 export const metadata: Metadata = {
